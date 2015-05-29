@@ -1,0 +1,135 @@
+{
+    "appKeys": {
+        "FONT_KEY": 6,
+        "HEIGHT_KEY": 3,
+        "HOR_KEY": 7,
+        "INVERT_KEY": 8,
+        "NOON_KEY": 4,
+        "SUNRISE_KEY": 2,
+        "SUNSET_KEY": 1,
+        "THICK_KEY": 5,
+        "TIMEDATE_KEY": 10,
+        "TYPE_KEY": 9,
+        "status": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "eline.wiel@gmail.com",
+    "longName": "SolarTimerrev1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/FuturaLT-Heavy.ttf",
+                "name": "FONT_FUTURA_BOLD_48",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/FuturaLT-Heavy.ttf",
+                "name": "FONT_FUTURA_BOLD_39",
+                "type": "font"
+            },
+            {
+                "file": "fonts/FuturaLT-Heavy.ttf",
+                "name": "FONT_FUTURA_BOLD_21",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/FuturaLT.ttf",
+                "name": "FONT_FUTURA_REGULAR_48",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/FuturaLT.ttf",
+                "name": "FONT_FUTURA_REGULAR_39",
+                "type": "font"
+            },
+            {
+                "file": "fonts/FuturaLT.ttf",
+                "name": "FONT_FUTURA_REGULAR_21",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Lato-Bold.ttf",
+                "name": "FONT_LATO_BOLD_49",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Lato-Bold.ttf",
+                "name": "FONT_LATO_BOLD_40",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Lato-Bold.ttf",
+                "name": "FONT_LATO_BOLD_22",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Lato-Regular.ttf",
+                "name": "FONT_LATO_REGULAR_49",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Lato-Regular.ttf",
+                "name": "FONT_LATO_REGULAR_40",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Lato-Regular.ttf",
+                "name": "FONT_LATO_REGULAR_22",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Lato-Light.ttf",
+                "name": "FONT_LATO_LIGHT_49",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Lato-Light.ttf",
+                "name": "FONT_LATO_LIGHT_40",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Lato-Light.ttf",
+                "name": "FONT_LATO_LIGHT_22",
+                "type": "font"
+            },
+            {
+                "file": "images/sinebw_thin.png",
+                "name": "IMAGE_SINE_THIN",
+                "type": "png"
+            },
+            {
+                "file": "images/SolarTime_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/sinebw.png",
+                "name": "IMAGE_SINE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "SolarTimerrev1",
+    "uuid": "3007aa21-aa55-4c23-b099-e1abfe28c40a",
+    "versionCode": 1,
+    "versionLabel": "0.61",
+    "watchapp": {
+        "watchface": true
+    }
+}
